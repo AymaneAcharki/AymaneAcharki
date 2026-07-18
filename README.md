@@ -52,7 +52,6 @@ My MSc research focuses on interpretable machine-learning methods for complex ge
 | [₿ **Bitcoin Market Correlations**](https://github.com/AymaneAcharki/analyse-marche-bitcoin-correlations) | End-to-end financial-data ETL, rolling correlations, dynamic regressions and five interactive Plotly visualizations. | **Python Bootcamp**, MSc 2 S1 · Group project; responsible for all code and visualizations · **19.5/20** |
 | [🌍 **Global Economic & Environmental Analysis**](https://github.com/AymaneAcharki/analyse-economique-environnementale-globale) | Multi-source data preparation, international GDP/CO₂ analysis, statistical correlations, regression and geospatial visualization. | **Fundamental of Data Analytics for Business**, MSc 1 S2 · **17.2/20** |
 
-The older Twitter sentiment-analysis project is preserved as an archived learning project and is intentionally excluded from this selected portfolio.
 
 ---
 
