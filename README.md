@@ -1,117 +1,126 @@
-# Aymane Acharki
+<a id="top"></a>
 
-> 🇫🇷 [Version française](#-version-française) · 🇬🇧 [English version](#-english-version)
+<h1 align="center">Aymane Acharki</h1>
 
----
+<h3 align="center">Genomics Data Scientist · Applied Machine Learning · Health AI</h3>
 
-## 🇫🇷 Version française
+<p align="center">
+  Building interpretable data products, reproducible analytics and privacy-aware AI systems.
+</p>
 
-## Data Scientist en Génomique | Machine Learning, Classification Multilabel & Produits d'IA en Santé
+<p align="center">
+  <a href="#selected-public-projects">Projects</a> •
+  <a href="#private-health-ai-rd">Health AI R&amp;D</a> •
+  <a href="#technical-focus">Technical focus</a> •
+  <a href="#version-française">Français</a>
+</p>
 
-Je conçois des pipelines de machine learning interprétables et des produits d'IA appliqués, avec un accent sur la génomique, la santé et les systèmes d'aide à la décision basés sur les données.
-
-Une sélection de projets publics est présentée ci-dessous. Les travaux de génomique propriétaire ainsi que les produits VoxPath et Scriptum Clinica restent privés.
-
-## À propos
-
-Je suis data scientist et ingénieur machine learning junior, travaillant sur le ML appliqué, l'analytique et le développement de produits. Mon portfolio public se concentre sur des workflows Python reproductibles, l'évaluation transparente des modèles, la traçabilité des données et l'aide à la décision pratique.
-
-Je m'intéresse particulièrement à l'IA en génomique et santé, où la validation rigoureuse, la confidentialité et la communication honnête des limites des modèles comptent autant que la performance prédictive.
-
-## Compétences clés
-
-### Data Science & Machine Learning
-
-`Python` · `pandas` · `scikit-learn` · `XGBoost` · `classification multilabel` · `NLP` · `feature engineering` · `évaluation de modèles` · `séries temporelles`
-
-### Ingénierie & Analytique des Données
-
-`SQL` · `ETL` · `qualité des données` · `PostgreSQL` · `Plotly` · `Tableau` · `Power BI`
-
-### Produit & Déploiement
-
-`Streamlit` · `FastAPI` · `LLM locaux` · `Git` · `Linux` · `tests` · `reproductibilité`
-
-## Projets publics sélectionnés
-
-| Projet | Ce qu'il démontre | Statut |
-|---|---|---|
-| [EcoMeal](https://github.com/AymaneAcharki/EcoMeal_Bot) | Développement de produit Streamlit, configuration LLM local/cloud, recherche structurée de recettes et transparence des limites d'estimation CO2 | Mise à jour du portfolio préparée localement |
-| [Analyse du marché du Bitcoin](https://github.com/AymaneAcharki/analyse-marche-bitcoin-correlations) | ETL de données financières de bout en bout, statistiques glissantes, analyse de régression et visualisations Plotly interactives | Projet académique, mise à jour de la documentation préparée |
-| [Base de données SQL Olympique](https://github.com/AymaneAcharki/olympic-sql-database) | Génération déterministe de données synthétiques, modélisation relationnelle, SQL analytique, contrôles d'intégrité et tests automatisés | Nouveau dépôt préparé localement ; publication en attente de relecture |
-| [Analyse économique & environnementale mondiale](https://github.com/AymaneAcharki/analyse-economique-environnementale-globale) | Jointures multi-sources, qualité des données, statistiques descriptives et analytique visuelle internationale | Projet académique, mise à jour de la documentation préparée |
-
-## IA en Santé & Génomique
-
-Ma direction actuelle combine le machine learning, les problèmes multilabel et des produits de données reproductibles pour des cas d'usage en génomique et santé.
-
-VoxPath et Scriptum Clinica sont des produits privés. Leurs données propriétaires, détails cliniques et architectures internes ne sont volontairement pas décrits dans ce profil public. Aucune affirmation de production ou de déploiement n'est faite ici.
-
-## Priorités actuelles
-
-- Construire des workflows ML reproductibles avec des baselines explicites, validation et analyse d'erreurs.
-- Renforcer le SQL, les tests de qualité des données et les pratiques ETL fiables.
-- Développer des produits d'IA en santé respectant la confidentialité et des workflows de génomique interprétables.
-- Convertir des notebooks académiques en dépôts portfolio testés et maintenables.
-
-## Contact
-
-- GitHub : [AymaneAcharki](https://github.com/AymaneAcharki)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
+</p>
 
 ---
 
-## 🇬🇧 English version
-
-## Genomics Data Scientist | Machine Learning, Multilabel Classification & Health AI Products
-
-I build interpretable machine-learning pipelines and applied AI products, with a focus on genomics, healthcare and data-driven decision systems.
-
-Selected public projects are presented below. Proprietary genomics work and the VoxPath and Scriptum Clinica products remain private.
+<a id="english"></a>
 
 ## About
 
-I am a data scientist and junior machine-learning engineer working across applied ML, analytics and product development. My public portfolio focuses on reproducible Python workflows, transparent model evaluation, data provenance and practical decision support.
+I am a **Genomics Data Scientist intern at DataPathology** and a final-year student in the **MSc Data Analytics for Business at KEDGE Business School**.
 
-I am particularly interested in genomics and health AI, where careful validation, privacy and honest communication of model limitations matter as much as predictive performance.
+My work sits at the intersection of:
 
-## Core Skills
+- interpretable machine learning;
+- genomics and healthcare;
+- data engineering and analytical quality;
+- applied AI product development.
+
+My MSc research focuses on interpretable machine-learning methods for complex genomic data, including pathway-level feature engineering, weak supervision and multilabel classification.
+
+---
+
+## Selected public projects
+
+| Project | Main technical contribution | Academic context |
+|---|---|---|
+| [🌱 **EcoMeal Bot**](https://github.com/AymaneAcharki/EcoMeal_Bot) · [Live demo](https://huggingface.co/spaces/AymaneAshrk/EcoMeal_Bot) | Streamlit application combining 2,000+ recipes, environmental data, CO₂ estimation, user profiles and local/cloud LLM support. Automated GitHub-to-Hugging Face deployment. | **Artificial Intelligence and SDG**, MSc 2 S2 · Group project · **16.7/20** |
+| [🏅 **Olympic SQL Database**](https://github.com/AymaneAcharki/olympic-sql-database) | Seven-table SQLite model, deterministic synthetic data generation, 12 analytical queries, 11 integrity checks, ER diagram and data dictionary. | **Data Management**, MSc 2 S1 · Group project; responsible for the SQL component · **16/20** |
+| [₿ **Bitcoin Market Correlations**](https://github.com/AymaneAcharki/analyse-marche-bitcoin-correlations) | End-to-end financial-data ETL, rolling correlations, dynamic regressions and five interactive Plotly visualizations. | **Python Bootcamp**, MSc 2 S1 · Group project; responsible for all code and visualizations · **19.5/20** |
+| [🌍 **Global Economic & Environmental Analysis**](https://github.com/AymaneAcharki/analyse-economique-environnementale-globale) | Multi-source data preparation, international GDP/CO₂ analysis, statistical correlations, regression and geospatial visualization. | **Fundamental of Data Analytics for Business**, MSc 1 S2 · **17.2/20** |
+
+The older Twitter sentiment-analysis project is preserved as an archived learning project and is intentionally excluded from this selected portfolio.
+
+---
+
+## Private Health AI R&D
+
+### VoxPath
+
+Privacy-first, offline clinical voice workflow for pathology reporting. The project explores local speech processing, structured report generation, validation workflows and CPU-compatible deployment.
+
+### Scriptum
+
+Offline-first medical document-intelligence engine for pathology and radiology workflows, with document ingestion, OCR orchestration, structured extraction, evidence traceability and mandatory human review.
+
+These projects remain private because they involve proprietary product work and potentially sensitive clinical workflows. They are active prototypes, not clinically validated medical devices or production-ready systems.
+
+---
+
+## Technical focus
 
 ### Data Science & Machine Learning
 
-`Python` · `pandas` · `scikit-learn` · `XGBoost` · `multilabel classification` · `NLP` · `feature engineering` · `model evaluation` · `time-series analysis`
+`Python` · `pandas` · `NumPy` · `scikit-learn` · `XGBoost` · `feature engineering` · `multilabel classification` · `weak supervision` · `NLP` · `time-series analysis` · `model evaluation`
 
 ### Data Engineering & Analytics
 
-`SQL` · `ETL` · `data quality` · `PostgreSQL` · `Plotly` · `Tableau` · `Power BI`
+`SQL` · `SQLite` · `PostgreSQL` · `ETL` · `data validation` · `data quality` · `Plotly` · `Tableau` · `Power BI`
 
-### Product & Deployment
+### Product & Engineering
 
-`Streamlit` · `FastAPI` · `local LLMs` · `Git` · `Linux` · `testing` · `reproducibility`
+`Streamlit` · `FastAPI` · `local LLMs` · `Hugging Face` · `GitHub Actions` · `pytest` · `Git` · `Linux` · `offline-first systems`
 
-## Selected Public Projects
+---
 
-| Project | What it demonstrates | Status |
-|---|---|---|
-| [EcoMeal](https://github.com/AymaneAcharki/EcoMeal_Bot) | Streamlit product development, local/cloud LLM configuration, structured recipe search and transparent CO2-estimation limits | Portfolio refresh prepared locally |
-| [Bitcoin Market Analysis](https://github.com/AymaneAcharki/analyse-marche-bitcoin-correlations) | End-to-end financial-data ETL, rolling statistics, regression analysis and interactive Plotly visualizations | Academic project, documentation refresh prepared |
-| [Olympic SQL Database](https://github.com/AymaneAcharki/olympic-sql-database) | Deterministic synthetic-data generation, relational modeling, analytical SQL, integrity checks and automated tests | New repository prepared locally; publication pending review |
-| [Global Economic & Environmental Analysis](https://github.com/AymaneAcharki/analyse-economique-environnementale-globale) | Multi-source joins, data quality, descriptive statistics and international visual analytics | Academic project, documentation refresh prepared |
+## Current priorities
 
-## Health AI & Genomics
+- Developing interpretable ML workflows for genomic and healthcare data.
+- Building privacy-aware, local-first clinical AI prototypes.
+- Strengthening testing, data-quality controls and reproducibility.
+- Turning academic analyses into clear, maintainable portfolio repositories.
 
-My current direction combines machine learning, multilabel problems and reproducible data products for genomics and healthcare use cases.
+---
 
-VoxPath and Scriptum Clinica are private products. Their proprietary data, clinical details and internal architectures are intentionally not described in this public profile. No production or deployment claim is made here.
+<a id="version-française"></a>
 
-## Current Focus
+<details>
+<summary><strong>🇫🇷 Version française</strong></summary>
 
-- Building reproducible ML workflows with explicit baselines, validation and error analysis.
-- Strengthening SQL, data-quality testing and reliable ETL practices.
-- Developing privacy-aware health AI products and interpretable genomics workflows.
-- Converting academic notebooks into tested, maintainable portfolio repositories.
+<br>
 
-## Contact
+Je suis **Genomics Data Scientist en stage chez DataPathology** et étudiant en dernière année du **MSc Data Analytics for Business à KEDGE Business School**.
 
-- GitHub: [AymaneAcharki](https://github.com/AymaneAcharki)
+Je développe des pipelines de machine learning interprétables et des produits d’IA appliqués à la génomique, à la santé et à l’aide à la décision. Mon mémoire porte sur l’utilisation de méthodes de ML interprétables pour des données génomiques complexes, notamment le feature engineering par pathways, la supervision faible et la classification multilabel.
 
+### Projets publics principaux
 
+- [**EcoMeal Bot**](https://github.com/AymaneAcharki/EcoMeal_Bot) — application Streamlit combinant recettes, données environnementales, estimation CO₂ et modèles de langage locaux ou cloud.
+- [**Olympic SQL Database**](https://github.com/AymaneAcharki/olympic-sql-database) — modélisation relationnelle SQLite, SQL analytique et contrôles d’intégrité.
+- [**Bitcoin Market Correlations**](https://github.com/AymaneAcharki/analyse-marche-bitcoin-correlations) — pipeline ETL financier, corrélations glissantes, régressions et visualisations Plotly.
+- [**Analyse économique et environnementale globale**](https://github.com/AymaneAcharki/analyse-economique-environnementale-globale) — analyse multi-sources du PIB, des émissions de CO₂, de la démographie et des dépenses militaires.
+
+### R&D privée en IA médicale
+
+**VoxPath** et **Scriptum** sont deux prototypes privés consacrés respectivement aux workflows vocaux cliniques et à l’intelligence documentaire médicale locale. Ils restent volontairement privés afin de protéger les éléments propriétaires et les workflows potentiellement sensibles.
+
+</details>
+
+---
+
+<p align="center">
+  <a href="https://github.com/AymaneAcharki">GitHub</a>
+</p>
