@@ -38,7 +38,7 @@ Je m'intéresse particulièrement à l'IA en génomique et santé, où la valida
 |---|---|---|
 | [EcoMeal](https://github.com/AymaneAcharki/EcoMeal_Bot) | Développement de produit Streamlit, configuration LLM local/cloud, recherche structurée de recettes et transparence des limites d'estimation CO2 | Mise à jour du portfolio préparée localement |
 | [Analyse du marché du Bitcoin](https://github.com/AymaneAcharki/analyse-marche-bitcoin-correlations) | ETL de données financières de bout en bout, statistiques glissantes, analyse de régression et visualisations Plotly interactives | Projet académique, mise à jour de la documentation préparée |
-| Base de données SQL Olympique | Génération déterministe de données synthétiques, modélisation relationnelle, SQL analytique, contrôles d'intégrité et tests automatisés | Nouveau dépôt préparé localement ; publication en attente de relecture |
+| [Base de données SQL Olympique](https://github.com/AymaneAcharki/olympic-sql-database) | Génération déterministe de données synthétiques, modélisation relationnelle, SQL analytique, contrôles d'intégrité et tests automatisés | Nouveau dépôt préparé localement ; publication en attente de relecture |
 | [Analyse économique & environnementale mondiale](https://github.com/AymaneAcharki/analyse-economique-environnementale-globale) | Jointures multi-sources, qualité des données, statistiques descriptives et analytique visuelle internationale | Projet académique, mise à jour de la documentation préparée |
 
 ## IA en Santé & Génomique
@@ -94,7 +94,7 @@ I am particularly interested in genomics and health AI, where careful validation
 |---|---|---|
 | [EcoMeal](https://github.com/AymaneAcharki/EcoMeal_Bot) | Streamlit product development, local/cloud LLM configuration, structured recipe search and transparent CO2-estimation limits | Portfolio refresh prepared locally |
 | [Bitcoin Market Analysis](https://github.com/AymaneAcharki/analyse-marche-bitcoin-correlations) | End-to-end financial-data ETL, rolling statistics, regression analysis and interactive Plotly visualizations | Academic project, documentation refresh prepared |
-| Olympic SQL Database | Deterministic synthetic-data generation, relational modeling, analytical SQL, integrity checks and automated tests | New repository prepared locally; publication pending review |
+| [Olympic SQL Database](https://github.com/AymaneAcharki/olympic-sql-database) | Deterministic synthetic-data generation, relational modeling, analytical SQL, integrity checks and automated tests | New repository prepared locally; publication pending review |
 | [Global Economic & Environmental Analysis](https://github.com/AymaneAcharki/analyse-economique-environnementale-globale) | Multi-source joins, data quality, descriptive statistics and international visual analytics | Academic project, documentation refresh prepared |
 
 ## Health AI & Genomics
