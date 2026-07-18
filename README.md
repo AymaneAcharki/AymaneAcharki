@@ -52,3 +52,4 @@ VoxPath and Scriptum Clinica are private products. Their proprietary data, clini
 
 - GitHub: [AymaneAcharki](https://github.com/AymaneAcharki)
 
+# Aymane-Acharki
