@@ -5,13 +5,14 @@
 <h3 align="center">Data & AI Analyst · Machine Learning · Business Intelligence</h3>
 
 <p align="center">
-  Turning business questions into reliable data workflows, analytical dashboards and applied AI prototypes.
+  Building reliable analytics, machine learning workflows and applied AI systems around real business needs.
 </p>
 
 <p align="center">
+  <a href="#current-work">Current work</a> •
   <a href="#selected-public-projects">Projects</a> •
   <a href="#applied-ai-rd">Applied AI R&amp;D</a> •
-  <a href="#technical-focus">Technical focus</a> •
+  <a href="#technical-stack">Technical stack</a> •
   <a href="#version-française">Français</a>
 </p>
 
@@ -20,22 +21,47 @@
   <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Machine%20Learning-F7931E" alt="Machine Learning">
   <img src="https://img.shields.io/badge/Business%20Intelligence-0A66C2" alt="Business Intelligence">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?logo=microsoftazure&logoColor=white" alt="Azure OpenAI">
+  <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" alt="Ollama">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" alt="Hugging Face">
 </p>
 
 ---
 
-<a id="english"></a>
-
 ## About
 
-I am a final-year student in the **MSc Data Analytics for Business at KEDGE Business School** and a **Genomics Data Scientist intern at DataPathology**.
+I am a **Data & AI Analyst**, currently working as an **independent Data & AI Developer** and as a **Genomics Data Scientist intern at DataPathology**, while completing the **MSc Data Analytics for Business at KEDGE Business School**.
 
-My positioning is broad by design: I work across **data analysis, business intelligence, machine learning and applied AI**. I like projects where the value is not only the model, but the full analytical chain: understanding the business problem, preparing reliable data, building clear outputs and making the result usable for decision-makers.
+I work across the full analytical chain: translating a business need, preparing and validating data, developing models or AI workflows, and delivering outputs that people can understand and use. My background in business analysis and information technology helps me connect technical choices with operational value.
 
-My current work includes interpretable machine learning for genomic and healthcare data. I present genomics as one application domain among others, alongside business process analysis, finance, sustainability, SQL analytics, LLM-assisted automation and early agentic workflow exploration.
+My projects cover **business intelligence, machine learning, generative and agentic AI, automation and data products**. Genomics and healthcare are important application areas in my current work, alongside finance, sustainability, business operations and geopolitical analysis.
+
+---
+
+<a id="current-work"></a>
+
+## Current work & selected experience
+
+### Independent Data & AI Developer · 2026–present
+
+- Developing Python-based Data and AI solutions for voice analysis and medical OCR.
+- Integrating local LLMs and AI agents with Ollama into existing workflows.
+- Designing privacy-aware workflows with GDPR and CNDP requirements in mind.
+
+### Genomics Data Scientist Intern · DataPathology · 2026–present
+
+- Contributing to the economic and legal analysis of a genomics initiative.
+- Designing a genomic data pipeline covering extraction, processing and analysis.
+
+### BNP Paribas Personal Finance × CGI · Machine Learning Hackathon · 2026
+
+- Built an AI-persona consumer panel simulator with a hybrid Azure OpenAI and local ML pipeline.
+- **1st-place project.**
+
+### Administrative Analyst · RGA Canada · 2022–2023
+
+- Analyzed new-business transactions and rejection patterns through KPI dashboards.
+- Helped reduce the backlog to **5%** and the rejection rate from **20% to 15%**, while keeping individual errors below **1%**.
 
 ---
 
@@ -43,64 +69,67 @@ My current work includes interpretable machine learning for genomic and healthca
 
 | Project | What it demonstrates | Scope |
 |---|---|---|
-| [**EcoMeal Bot**](https://github.com/AymaneAcharki/EcoMeal_Bot) · [Live demo](https://huggingface.co/spaces/AymaneAshrk/EcoMeal_Bot) | Streamlit app combining 2,000+ recipes, environmental data, CO2 estimation, user profiles and local/cloud LLM support. Automated GitHub-to-Hugging Face deployment. | Generative AI, data product, sustainability |
+| [**EcoMeal Bot**](https://github.com/AymaneAcharki/EcoMeal_Bot) · [Live demo](https://huggingface.co/spaces/AymaneAshrk/EcoMeal_Bot) | Streamlit application combining 2,000+ recipes, environmental data, CO2 estimation, user profiles and local/cloud LLM support. | Generative AI, data product, sustainability |
 | [**Olympic SQL Database**](https://github.com/AymaneAcharki/olympic-sql-database) | Seven-table SQLite model, deterministic synthetic data generation, analytical queries, integrity checks, ER diagram and data dictionary. | SQL, data modeling, analytics quality |
 | [**Bitcoin Market Correlations**](https://github.com/AymaneAcharki/analyse-marche-bitcoin-correlations) | End-to-end financial-data ETL, rolling correlations, dynamic regressions and interactive Plotly visualizations. | Financial analytics, time series, visualization |
-| [**Global Economic & Environmental Analysis**](https://github.com/AymaneAcharki/analyse-economique-environnementale-globale) | Multi-source data preparation, GDP/CO2 analysis, statistical correlations, regression and geospatial visualization. | Business analytics, macro data, environment |
+| [**Global Economic & Environmental Analysis**](https://github.com/AymaneAcharki/analyse-economique-environnementale-globale) | Multi-source GDP, CO2, demographic, military-spending and financial-data analysis with statistical and geospatial outputs. | Business analytics, macro data, geopolitics |
 
 ---
+
+<a id="applied-ai-rd"></a>
 
 ## Applied AI R&D
 
+### PathOS
+
+Local clinical workstation coordinating document OCR and voice-dictation workflows, with separate processing engines, human review, traceability and privacy-aware local execution.
+
 ### VoxPath
 
-Privacy-first, offline clinical voice workflow for pathology reporting. The project explores local speech processing, structured report generation, validation workflows and CPU-compatible deployment.
+Offline, CPU-compatible clinical voice workflow for pathology reporting, covering local speech processing, structured report generation and mandatory validation.
 
 ### Scriptum
 
-Offline-first medical document-intelligence engine for pathology and radiology workflows, with document ingestion, OCR orchestration, structured extraction, evidence traceability and mandatory human review.
+Offline-first medical document-intelligence engine for pathology and radiology, covering document ingestion, OCR orchestration, structured extraction, evidence traceability and human review.
 
-These projects remain private because they involve proprietary product work and potentially sensitive clinical workflows. They are active prototypes, not clinically validated medical devices or production-ready systems.
-
----
-
-## Technical focus
-
-### Data Analysis, BI & Business Process
-
-`business analysis` · `process analysis` · `BPMN` · `Excel` · `Access` · `Tableau` · `Power BI` · `reporting` · `stakeholder presentations`
-
-### Data Science & Machine Learning
-
-`Python` · `pandas` · `NumPy` · `scikit-learn` · `XGBoost` · `feature engineering` · `model evaluation` · `multilabel classification` · `weak supervision` · `NLP` · `time-series analysis`
-
-### Data Engineering & Automation
-
-`SQL` · `SQLite` · `PostgreSQL` · `ETL` · `data validation` · `data quality` · `Plotly` · `Git` · `GitHub Actions` · `pytest` · `Linux`
-
-### Applied Generative AI
-
-`Streamlit` · `FastAPI` · `Hugging Face` · `local LLMs` · `LLM-assisted workflows` · `offline-first systems` · `human-in-the-loop validation`
+These are private, active R&D projects involving proprietary components and potentially sensitive clinical workflows. They are not clinically validated medical devices or production-ready clinical systems.
 
 ---
 
-## Current priorities
+<a id="technical-stack"></a>
 
-- Building portfolio projects that connect analytics, BI, ML and clear business interpretation.
-- Developing interpretable ML workflows for genomic and healthcare data.
-- Exploring privacy-aware, local-first AI prototypes for voice, document and LLM-assisted workflows.
-- Strengthening testing, data-quality controls and reproducibility across projects.
+## Technical stack
+
+### Data, analytics & BI
+
+`Python` · `SQL` · `VBA` · `Excel` · `pandas` · `ETL` · `data cleaning` · `EDA` · `Tableau` · `KPI dashboards` · `reporting` · `BPMN 2.0`
+
+### Machine & deep learning
+
+`scikit-learn` · `XGBoost` · `Random Forest` · `Classifier Chains` · `K-Means` · `PyTorch` · `CUDA` · `model evaluation` · `time-series analysis`
+
+### Generative & agentic AI
+
+`Azure OpenAI` · `Azure AI Foundry` · `local LLMs` · `Ollama` · `AI agents` · `Hugging Face` · `Streamlit` · `FastAPI` · `human-in-the-loop workflows`
+
+### Engineering & enterprise systems
+
+`Git` · `GitHub` · `Linux` · `pytest` · `Agile` · `data validation` · `offline-first systems` · `SAP EWM` · `SAP MM` · `SAP SD` · `SAP PP`
+
+---
+
+## Education & certification
+
+- **MSc Data Analytics for Business**, KEDGE Business School · 2024–present
+- **Microsoft Azure AI-900 certification**
+- **Trilingual BBA**, HEC Montréal · Business Analysis and Information Technology specialization
+- International experience at Universidad Católica del Uruguay and intensive C1 Spanish studies in Seville
 
 ---
 
 ## Application domains
 
-My projects span several domains:
-
-- **Business operations:** process analysis, dashboards, reporting and decision support.
-- **Finance:** market correlations, time-series analysis and interactive visualizations.
-- **Sustainability:** CO2 estimation, environmental indicators and macro-level analysis.
-- **Healthcare and genomics:** interpretable ML, clinical workflow automation and privacy-aware AI prototypes.
+`business operations` · `finance` · `sustainability` · `geopolitics` · `healthcare` · `genomics`
 
 ---
 
@@ -111,34 +140,42 @@ My projects span several domains:
 
 <br>
 
-Je suis étudiant en dernière année du **MSc Data Analytics for Business à KEDGE Business School** et **Genomics Data Scientist en stage chez DataPathology**.
+Je suis **Data & AI Analyst**, actuellement **développeur Data & IA indépendant** et **Genomics Data Scientist en stage chez DataPathology**, tout en terminant le **MSc Data Analytics for Business de KEDGE Business School**.
 
-Mon positionnement est volontairement large: **Data & AI Analyst**, avec un socle en **business intelligence**, **machine learning**, **analyse de données**, **automatisation** et **IA appliquée**. J’aime les projets où la valeur vient de toute la chaîne analytique: comprendre le besoin métier, préparer les données, construire un résultat clair et le rendre utile pour la décision.
+Mon profil associe analyse métier et réalisation technique: compréhension du besoin, préparation et validation des données, développement de modèles ou de workflows IA, puis restitution exploitable pour la décision. Mon positionnement couvre la **data analyse**, la **business intelligence**, le **machine learning**, l’**IA générative et agentique** et l’**automatisation**.
 
-La génomique et la santé restent des domaines importants dans mon parcours, mais je les présente comme des **domaines d’application** parmi d’autres: finance, durabilité, SQL analytics, analyse de processus, tableaux de bord, automatisation assistée par LLM et premières explorations de workflows agentiques.
+La génomique et la santé sont des domaines d’application importants dans mon travail actuel, au même titre que la finance, la durabilité, les opérations métier et l’analyse géopolitique.
 
-### Projets publics principaux
+### Expériences et réalisations
 
-- [**EcoMeal Bot**](https://github.com/AymaneAcharki/EcoMeal_Bot) — application Streamlit combinant recettes, données environnementales, estimation CO2, profils utilisateurs et modèles de langage locaux ou cloud.
-- [**Olympic SQL Database**](https://github.com/AymaneAcharki/olympic-sql-database) — modélisation relationnelle SQLite, SQL analytique, contrôles d’intégrité, diagramme ER et dictionnaire de données.
-- [**Bitcoin Market Correlations**](https://github.com/AymaneAcharki/analyse-marche-bitcoin-correlations) — pipeline ETL financier, corrélations glissantes, régressions et visualisations Plotly.
-- [**Analyse économique et environnementale globale**](https://github.com/AymaneAcharki/analyse-economique-environnementale-globale) — analyse multi-sources du PIB, des émissions de CO2, de la démographie, des dépenses militaires et des données financières.
+- **Développeur Data & IA indépendant:** solutions Python d’analyse vocale et d’OCR médical, intégration de LLM locaux et d’agents IA avec Ollama, prise en compte du RGPD et de la CNDP.
+- **DataPathology:** analyse économique et juridique d’un projet génomique et conception d’un pipeline d’extraction, de traitement et d’analyse de données génomiques.
+- **BNP Paribas Personal Finance × CGI:** simulateur de panel consommateurs fondé sur des personas IA, combinant Azure OpenAI et modèles ML locaux; projet classé **1er**.
+- **RGA Canada:** dashboards KPI ayant contribué à ramener le backlog à **5%** et le taux de rejet de **20% à 15%**, avec un taux d’erreurs individuelles inférieur à **1%**.
 
-### Axes techniques
+### Projets publics
 
-- **Data, BI et analyse métier:** analyse de processus, BPMN, Excel, Access, Tableau, Power BI, reporting et présentations décisionnelles.
-- **Machine learning:** Python, pandas, NumPy, scikit-learn, XGBoost, feature engineering, évaluation de modèles, NLP, séries temporelles.
-- **Data engineering et automatisation:** SQL, SQLite, PostgreSQL, ETL, validation de données, Plotly, Git, GitHub Actions, tests et reproductibilité.
-- **IA générative appliquée:** Streamlit, FastAPI, Hugging Face, LLMs locaux, workflows assistés par LLM, systèmes offline-first et validation humaine.
+- [**EcoMeal Bot**](https://github.com/AymaneAcharki/EcoMeal_Bot) — IA générative, produit data et durabilité.
+- [**Olympic SQL Database**](https://github.com/AymaneAcharki/olympic-sql-database) — modélisation relationnelle, SQL analytique et qualité des données.
+- [**Bitcoin Market Correlations**](https://github.com/AymaneAcharki/analyse-marche-bitcoin-correlations) — ETL financier, séries temporelles et visualisations interactives.
+- [**Analyse économique et environnementale globale**](https://github.com/AymaneAcharki/analyse-economique-environnementale-globale) — analyse macroéconomique, environnementale et géopolitique multi-sources.
 
-### R&D privée en IA appliquée à la santé
+### Compétences principales
 
-**VoxPath** et **Scriptum** sont deux prototypes privés consacrés respectivement aux workflows vocaux cliniques et à l’intelligence documentaire médicale locale. Ils restent volontairement privés afin de protéger les éléments propriétaires et les workflows potentiellement sensibles. Ce sont des prototypes actifs, pas des dispositifs médicaux validés cliniquement.
+- **Data et BI:** Python, SQL, VBA, Excel, pandas, ETL, data cleaning, EDA, Tableau, dashboards KPI, reporting et BPMN 2.0.
+- **Machine learning:** scikit-learn, XGBoost, Random Forest, Classifier Chains, K-Means, PyTorch et CUDA.
+- **IA générative et agentique:** Azure OpenAI, Azure AI Foundry, LLM locaux, Ollama, agents IA, Hugging Face, Streamlit et FastAPI.
+- **Systèmes et méthodes:** Git, GitHub, Linux, validation des données, systèmes offline-first et SAP EWM/MM/SD/PP.
+
+### R&D privée en IA appliquée
+
+**PathOS**, **VoxPath** et **Scriptum** explorent des workflows cliniques locaux pour l’OCR documentaire, la dictée vocale, la revue humaine et la traçabilité. Ces projets privés sont des travaux de R&D actifs, pas des dispositifs médicaux validés ni des systèmes cliniques prêts pour la production.
 
 </details>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/AymaneAcharki">GitHub</a>
+  <a href="https://github.com/AymaneAcharki">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/aymaneacharki">LinkedIn</a>
 </p>
