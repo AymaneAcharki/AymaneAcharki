@@ -100,9 +100,9 @@ Local clinical workstation coordinating document OCR and voice-dictation workflo
 
 Offline, CPU-compatible clinical voice workflow for pathology reporting, covering local speech processing, structured report generation and mandatory validation.
 
-### Scriptum
+### ScripPath
 
-Offline-first medical document-intelligence engine for pathology and radiology, covering document ingestion, OCR orchestration, structured extraction, evidence traceability and human review.
+Offline-first medical document-intelligence engine for pathology, covering document ingestion, OCR orchestration, structured extraction, evidence traceability and human review.
 
 These are private, active R&D projects involving proprietary components and potentially sensitive clinical workflows. They are not clinically validated medical devices or production-ready clinical systems.
 
