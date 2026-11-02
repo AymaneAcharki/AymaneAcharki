@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  Paris, France.
+</p>
+
+<p align="center">
   <a href="#selected-public-projects">Public projects</a> •
   <a href="#applied-ai-rd">PathOS</a> •
   <a href="#agentic-workflow">AI-assisted development</a> •
