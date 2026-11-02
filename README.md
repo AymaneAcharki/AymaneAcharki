@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#current-work">Current work</a> •
+  <a href="#current-work">Experience</a> •
   <a href="#selected-public-projects">Projects</a> •
   <a href="#applied-ai-rd">Applied AI R&amp;D</a> •
   <a href="#technical-stack">Technical stack</a> •
@@ -30,7 +30,9 @@
 
 ## About
 
-I am a **Data & AI Analyst**, currently working as an **independent Data & AI Developer** and as a **Genomics Data Scientist intern at DataPathology**, while completing the **MSc Data Analytics for Business at KEDGE Business School**.
+I am a **Data & AI Analyst**, currently working as an **independent Data & AI Developer** and completing the **MSc Data Analytics for Business at KEDGE Business School**.
+
+From **June to October 2026**, I worked as a **Genomics Data Scientist intern at DataPathology** in Casablanca, Morocco.
 
 I work across the full analytical chain: translating a business need, preparing and validating data, developing models or AI workflows, and delivering outputs that people can understand and use. My background in business analysis and information technology helps me connect technical choices with operational value.
 
@@ -40,28 +42,38 @@ My projects cover **business intelligence, machine learning, generative and agen
 
 <a id="current-work"></a>
 
-## Current work & selected experience
+## Professional experience
 
-### Independent Data & AI Developer · 2026–present
+### Genomics Data Scientist Intern · DataPathology
+**June 2026 – October 2026 · Casablanca, Morocco**
 
-- Developing Python-based Data and AI solutions for voice analysis and medical OCR.
-- Integrating local LLMs and AI agents with Ollama into existing workflows.
-- Designing privacy-aware workflows with GDPR and CNDP requirements in mind.
+- Developed a Python pipeline for extracting, cleaning and structuring genetic data.
+- Explored machine learning and deep learning models to analyze interactions between genetic variants.
+- Conducted an economic and regulatory feasibility study for the Moroccan and international markets.
 
-### Genomics Data Scientist Intern · DataPathology · 2026–present
+### Data & AI Developer · Independent
+**July 2026 – present · Casablanca, Morocco**
 
-- Contributing to the economic and legal analysis of a genomics initiative.
-- Designing a genomic data pipeline covering extraction, processing and analysis.
+- Designed and developed a patient-record management application.
+- Integrated OCR and speech-transcription modules in Python to generate reports.
+- Deployed the application in a laboratory for a pre-pilot phase, with experimentation by physicians.
 
-### BNP Paribas Personal Finance × CGI · Machine Learning Hackathon · 2026
+### Administrative Analyst · RGA Canada
+**September 2022 – April 2023 · Montréal, Canada**
 
-- Built an AI-persona consumer panel simulator with a hybrid Azure OpenAI and local ML pipeline.
-- **1st-place project.**
+- Analyzed new-business transactions and monitored rejections.
+- Created and improved KPI dashboards, helping reduce the rejection rate from **20% to 15%**.
+- Maintained an individual error rate below **1%**.
 
-### Administrative Analyst · RGA Canada · 2022–2023
+---
 
-- Analyzed new-business transactions and rejection patterns through KPI dashboards.
-- Helped reduce the backlog to **5%** and the rejection rate from **20% to 15%**, while keeping individual errors below **1%**.
+## Selected academic project
+
+### BNP Paribas Personal Finance × CGI · Machine Learning Hackathon
+**March 2026 · Bordeaux, France · 1st place**
+
+- Designed a panel of **five AI personas** to refine advertising-campaign targeting.
+- Developed a pipeline combining **Azure OpenAI**, customer segmentation with **K-Means** and prediction with **XGBoost**.
 
 ---
 
@@ -140,18 +152,41 @@ These are private, active R&D projects involving proprietary components and pote
 
 <br>
 
-Je suis **Data & AI Analyst**, actuellement **développeur Data & IA indépendant** et **Genomics Data Scientist en stage chez DataPathology**, tout en terminant le **MSc Data Analytics for Business de KEDGE Business School**.
+Je suis **Data & AI Analyst**, actuellement **développeur Data & IA indépendant**, tout en terminant le **MSc Data Analytics for Business de KEDGE Business School**. J’ai effectué un stage de **Genomics Data Scientist chez DataPathology de juin à octobre 2026**.
 
 Mon profil associe analyse métier et réalisation technique: compréhension du besoin, préparation et validation des données, développement de modèles ou de workflows IA, puis restitution exploitable pour la décision. Mon positionnement couvre la **data analyse**, la **business intelligence**, le **machine learning**, l’**IA générative et agentique** et l’**automatisation**.
 
 La génomique et la santé sont des domaines d’application importants dans mon travail actuel, au même titre que la finance, la durabilité, les opérations métier et l’analyse géopolitique.
 
-### Expériences et réalisations
+### Expérience professionnelle
 
-- **Développeur Data & IA indépendant:** solutions Python d’analyse vocale et d’OCR médical, intégration de LLM locaux et d’agents IA avec Ollama, prise en compte du RGPD et de la CNDP.
-- **DataPathology:** analyse économique et juridique d’un projet génomique et conception d’un pipeline d’extraction, de traitement et d’analyse de données génomiques.
-- **BNP Paribas Personal Finance × CGI:** simulateur de panel consommateurs fondé sur des personas IA, combinant Azure OpenAI et modèles ML locaux; projet classé **1er**.
-- **RGA Canada:** dashboards KPI ayant contribué à ramener le backlog à **5%** et le taux de rejet de **20% à 15%**, avec un taux d’erreurs individuelles inférieur à **1%**.
+#### Genomics Data Scientist — Stage · DataPathology
+**06/2026 – 10/2026 · Casablanca, Maroc**
+
+- Développement d’un pipeline d’extraction, nettoyage et structuration de données génétiques en Python.
+- Exploration de modèles de machine learning et de deep learning pour analyser les interactions entre variants génétiques.
+- Étude de faisabilité économique et réglementaire du projet pour le marché marocain et international.
+
+#### Développeur Data & IA · Activité indépendante
+**07/2026 – Présent · Casablanca, Maroc**
+
+- Conception et développement d’une application de gestion de dossiers patients.
+- Intégration en Python de modules d’OCR et de transcription vocale pour générer des comptes rendus.
+- Déploiement en phase prépilote au sein d’un laboratoire avec expérimentation par les médecins.
+
+#### Analyste administratif · RGA Canada
+**09/2022 – 04/2023 · Montréal, Canada**
+
+- Analyse des transactions Nouvelles Affaires et suivi des rejets.
+- Création et amélioration de dashboards KPI : taux de rejet passé de **20 % à 15 %**.
+- Maintien du taux d’erreurs individuelles sous **1 %**.
+
+### Projet académique sélectionné
+
+**BNP Paribas Personal Finance × CGI · Hackathon Machine Learning · 03/2026 · Bordeaux, France · 1re place**
+
+- Conception d’un panel de **5 personas IA** pour affiner le ciblage des campagnes publicitaires.
+- Développement d’un pipeline associant **Azure OpenAI**, segmentation clients (**K-Means**) et prédiction (**XGBoost**).
 
 ### Projets publics
 
